@@ -1,0 +1,1 @@
+x=msgbox("Your computer is on fire. Please purchase a new computer as yours is beyond repair. Thanks from Microsoft co-operation.", 4+16,"Error")

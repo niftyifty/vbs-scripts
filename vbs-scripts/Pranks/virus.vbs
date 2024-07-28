@@ -1,0 +1,1 @@
+X=MsgBox("'VIRUS' Is Hacking Your computer...",0+48,"Trojan Virus") 
